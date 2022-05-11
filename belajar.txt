@@ -3,3 +3,5 @@ haloo fahri
 belajar devops 2022
 
 hari ke-2 pembelajaran 
+
+belajar repository, branch, commit, marge, dan pull request
